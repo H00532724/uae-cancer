@@ -12,3 +12,15 @@ Modified locally and pushed to GitHub for CLO3 submission.
 | **Jupyter Python Programs.zip** | Contains all Jupyter Notebook (.ipynb) files used for data analysis, visualization, and machine learning (LR , KNN ,Naive Bayes, Decision Tree, etc.). |
 | **box plot.png**, **heat map.png**, **histogram.png**, **scatter plot.png** | Visualizations created for descriptive analysis of the UAE Cancer dataset (CLO2). |
 | **README.md** | Project overview and file descriptions. |
+
+---
+
+### 🧑‍💻 Proof of Collaboration
+The following PNG files serve as proof of teamwork between me and my teammate during our Google Meet project work sessions:
+
+- `screenshot 1.jpg`
+- `screenshot 2.jpg`
+- `screenshot 3.jpg`
+- `screenshot 4.jpg`
+
+These screenshots were taken during our collaborative discussions and coding sessions to demonstrate our joint contribution and coordination throughout the project, as required by the instructor.
